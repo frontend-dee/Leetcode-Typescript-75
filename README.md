@@ -1,7 +1,8 @@
 # Leetcode-Typescript-75
 Leetcode Typescript solutions
 https://leetcode.com/studyplan/leetcode-75/
-![image](https://github.com/user-attachments/assets/3bdd73be-2acb-424c-ab6f-19667897c2a6)
+![image](https://github.com/user-attachments/assets/2bebd8be-a8dc-4628-a090-d4967b3ad9a8)
+
 
 
 
